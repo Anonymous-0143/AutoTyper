@@ -2,7 +2,6 @@
 
 A simple and convenient desktop utility built with Python and Tkinter to automate typing of predefined text snippets. This tool is designed to stay on top of other windows, allowing you to quickly paste text into any application using buttons or global hotkeys.
 
-_(Replace with a screenshot of your application)_
 
 ## Features
 
@@ -77,6 +76,3 @@ This application was created by **Arin Choubey**.
 
 Feel free to visit my GitHub Profile.
 
-## License
-
-This project is open-source. You are free to use, modify, and distribute it. Please consider adding a license file (e.g., MIT License) to clarify the terms of use.
